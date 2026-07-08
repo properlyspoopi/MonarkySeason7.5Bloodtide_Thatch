@@ -37,8 +37,7 @@
 			"/Game/PrimalEarth/CoreBlueprints/Items/Structures/Thatch/PrimalItemStructure_ThatchFloor.PrimalItemStructure_ThatchFloor_C",
 			"/Game/PrimalEarth/CoreBlueprints/Items/Structures/Thatch/PrimalItemStructure_ThatchWall.PrimalItemStructure_ThatchWall_C",
 			"/Game/PrimalEarth/CoreBlueprints/Items/Structures/Thatch/PrimalItemStructure_ThatchCeiling.PrimalItemStructure_ThatchCeiling_C",
-			"/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_CookedMeat.PrimalItemConsumable_CookedMeat_C",
-			"/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_IcedWaterJar.PrimalItemConsumable_IcedWaterJar_C",
+
 		],
 		"defaultkititempool": [
 			"/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponStonePick.PrimalItem_WeaponStonePick_C",
@@ -62,6 +61,8 @@
       		"/Game/PrimalEarth/Test/PrimalItem_BloodExtractor.PrimalItem_BloodExtractor_C",
       		"/Game/PrimalEarth/Test/PrimalItem_WeaponSpyglass.PrimalItem_WeaponSpyglass_C",
       		"/Game/Aberration/WeaponGlowStickThrow/PrimalItem_GlowStick.PrimalItem_GlowStick_C",
+			"/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_CookedMeat.PrimalItemConsumable_CookedMeat_C",
+			"/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_IcedWaterJar.PrimalItemConsumable_IcedWaterJar_C",
 		],
 		"preventiteminpvpbox": [],
 		"amountaddablestructures": 3,
